@@ -1,8 +1,6 @@
-# stayVista-starter-template
+# StayVista
 
 
-  
-## Topics Covered in each session:
 
 **Part 1:**
 - Introduction & Project overview.
